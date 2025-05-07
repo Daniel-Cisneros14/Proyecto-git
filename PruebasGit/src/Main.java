@@ -5,5 +5,6 @@ public class Main {
         System.out.println("Hello and welcome!");
         System.out.println("Prueba de push en Java");
         System.out.println("Prueba de pull codigo escrito en github");
+        System.out.println("Segunda Prueba de pull codigo escrito en github");
         }
     }
